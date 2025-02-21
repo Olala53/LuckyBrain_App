@@ -14,7 +14,7 @@ LuckyBrain is a web and mobile application for cognitive rehabilitation for peop
 * [Additional comments](#additional-comments)
 * [Recommended use](#recommended-use)
 * [Documentation](#documentation)
-* [How to Contribute to the Project](#how-to-contribute-to-the-project)
+* [How to contribute to the project](#how-to-contribute-to-the-project)
 
 ## System requirements
 
@@ -112,6 +112,6 @@ Process flow:
 * Exercise execution
 * Recording progress
 
-## How to Contribute to the Project
+## How to contribute to the project
 
 I encourage reporting bugs, proposing features, and creating pull requests.
